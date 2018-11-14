@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "710126463627",
+    "firebase_url": "https://rezervator-a6964.firebaseio.com",
+    "project_id": "rezervator-a6964",
+    "storage_bucket": "rezervator-a6964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710126463627:android:7adca35435179080",
+        "android_client_info": {
+          "package_name": "cz.underholding.rezervator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710126463627-6sca12tosicu6vas62emr7uqmcceph1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.underholding.rezervator",
+            "certificate_hash": "2f19909450d510f8c2cddd49038ce8657491b3f9"
+          }
+        },
+        {
+          "client_id": "710126463627-pms9qeu6lt9h7vn39ujb270knvrvbeqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ8q8cZlkGoMtxPxuthXpmvDKp47hdmNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710126463627-pms9qeu6lt9h7vn39ujb270knvrvbeqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
